@@ -132,16 +132,16 @@ stateDiagram-v2
 
 ### Basic Image
 
-![Placeholder Image](https://via.placeholder.com/500x300)
+![Placeholder Image](https://placehold.co/600x400?text=Hello+World)
 
 ### Image Grid
 
 <!-- Using the image grid plugin -->
 
-![Grid Image 1](https://placehold.co/600x400?text=Hello+World)
-![Grid Image 2](https://placehold.co/600x400?text=Hello+World2)
-![Grid Image 3](https://placehold.co/600x400?text=Hello+World3)
-![Grid Image 4](https://placehold.co/600x400?text=Hello+World+4)
+* ![Grid Image 1](https://placehold.co/600x400?text=Hello+World)
+* ![Grid Image 2](https://placehold.co/600x400?text=Hello+World2)
+* ![Grid Image 3](https://placehold.co/600x400?text=Hello+World3)
+* ![Grid Image 4](https://placehold.co/600x400?text=Hello+World+4)
 
 ### Image with Caption
 
